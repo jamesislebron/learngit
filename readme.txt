@@ -4,3 +4,4 @@ I am learning Git!
 Git has a mutable index called stage.
 
 git tracks changes.
+git tracks changes of all files.
