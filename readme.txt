@@ -1,6 +1,6 @@
 Git is a distributed version control system.
-Git is a free software distributed under the GPL.
-I am learning Git!
+Git is a completely free software distributed under the GPL.
+I am learning a free Git!
 Git has a mutable index called stage.
 
 git tracks changes.
